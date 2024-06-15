@@ -1,0 +1,370 @@
+﻿ID;Fecha;Id Cliente;Cliente;Ciudad;Provincia;Vendedor
+1;09/04/2020;9259377217;Empresa AA;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+2;25/08/2020;6185253419;Empresa AA;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+3;18/03/2020;2308885942;Empresa D;Azogues;Canar;Andrés González Rico
+4;23/05/2020;6199717898;Empresa D;Azogues;Canar;Andrés González Rico
+5;23/04/2020;5540683029;Empresa D;Azogues;Canar;Andrés González Rico
+6;19/12/2020;6343955045;Empresa L;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+7;29/10/2020;1572125717;Empresa L;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+8;02/02/2020;3776895536;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+9;23/11/2020;390733860;Empresa D;Azogues;Canar;Andrés González Rico
+10;02/02/2020;2456709195;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+11;17/06/2020;5766090086;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+12;02/08/2020;4872781256;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+13;13/01/2020;4213140599;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+14;31/01/2020;9433063552;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+15;25/07/2020;8539365209;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+16;27/06/2020;6983099686;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+17;22/08/2020;3008945605;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+18;16/04/2020;5388305959;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+19;07/12/2020;438272084;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+20;14/02/2020;2536792311;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+21;03/11/2020;7813757711;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+22;28/03/2020;4786931679;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+23;27/07/2020;3021659728;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+24;11/06/2020;2591950684;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+25;24/02/2020;9326361454;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+26;12/08/2020;3769138349;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+27;18/03/2020;5871657714;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+28;14/05/2020;1534553307;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+29;11/11/2020;8474620707;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+30;09/11/2020;3530767380;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+31;15/01/2020;6673950624;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+32;16/05/2020;7137547321;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+33;01/02/2020;9655985375;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+34;02/12/2020;299812367;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+35;09/02/2020;7779151222;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+36;27/12/2020;9282360094;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+37;31/05/2020;6935804403;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+38;01/05/2020;3650322132;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+39;14/05/2020;1985754250;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+40;16/09/2020;7293507918;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+41;01/06/2020;3459323228;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+42;17/06/2020;1144627655;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+43;27/08/2020;3986713828;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+44;16/06/2020;9350633665;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+45;25/10/2020;4918639925;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+46;30/11/2020;9630006862;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+47;30/03/2020;9029002933;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+48;19/02/2020;5702300844;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+49;01/04/2020;6885713027;Empresa D;Azogues;Canar;Andrés González Rico
+50;31/01/2020;5156178317;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+51;10/06/2020;9993785470;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+52;03/10/2020;2344903076;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+53;19/10/2020;5773601950;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+54;14/09/2020;4818078168;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+55;13/12/2020;9107195581;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+56;13/05/2020;5806733138;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+57;21/02/2020;3059258597;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+58;19/11/2020;586395005;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+59;01/09/2020;9281389647;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+60;06/12/2020;2230409971;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+61;31/05/2020;498762200;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+62;25/01/2020;5059332572;Empresa D;Azogues;Canar;Andrés González Rico
+63;22/07/2020;807667000;Empresa D;Azogues;Canar;Andrés González Rico
+64;13/10/2020;4320869422;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+65;09/12/2020;7227542762;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+66;29/02/2020;4844854212;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+67;24/04/2020;6476704094;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+68;09/08/2020;289513623;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+69;11/10/2020;4360909288;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+70;15/05/2020;1569352924;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+71;11/05/2020;4417023777;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+72;15/01/2020;5213348963;Empresa D;Azogues;Canar;Andrés González Rico
+73;28/06/2020;6039525395;Empresa L;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+74;19/10/2020;7564866770;Empresa L;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+75;25/05/2020;9161740728;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+76;18/04/2020;5854661633;Empresa D;Azogues;Canar;Andrés González Rico
+77;13/06/2020;9782824487;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+78;27/02/2020;5368581132;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+79;09/06/2020;1972466220;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+80;14/11/2020;6835780904;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+81;17/07/2020;9361876990;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+82;01/01/2020;7655628230;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+83;01/05/2020;6770397729;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+84;25/09/2020;6622149015;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+85;28/08/2020;8859429908;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+86;30/09/2020;146252536;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+87;05/02/2020;9010865731;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+88;05/07/2020;9076170123;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+89;03/04/2020;4412491838;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+90;13/05/2020;7223227521;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+91;12/06/2020;9595973394;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+92;01/03/2020;2755531090;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+93;26/08/2020;5306800000;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+94;06/12/2020;6768826719;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+95;02/04/2020;7945500000;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+96;02/04/2020;4671327569;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+97;26/09/2020;5750783013;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+98;12/07/2020;1216202808;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+99;13/04/2020;7167041532;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+100;22/09/2020;2241191338;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+101;02/10/2020;806264266;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+102;12/03/2020;3820174684;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+103;31/08/2020;5541796483;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+104;13/07/2020;7096714976;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+105;25/11/2020;2543114862;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+106;27/08/2020;6501127347;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+107;26/04/2020;1322296163;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+108;18/10/2020;5162222472;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+109;29/09/2020;5752777715;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+110;12/07/2020;2261700341;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+111;30/08/2020;9950546196;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+112;26/12/2020;9911266011;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+113;18/12/2020;8455987495;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+114;15/05/2020;6668567210;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+115;07/07/2020;9528620750;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+116;15/02/2020;1951835035;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+117;27/09/2020;8464805926;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+118;20/09/2020;1040241832;Empresa D;Azogues;Canar;Andrés González Rico
+119;22/11/2020;5032769390;Empresa D;Azogues;Canar;Andrés González Rico
+120;26/03/2020;5375997402;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+121;07/01/2020;967566383;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+122;30/07/2020;7607007457;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+123;18/09/2020;6139722497;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+124;03/04/2020;6071133871;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+125;26/02/2020;8634772142;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+126;06/09/2020;5431718510;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+127;19/09/2020;7109276915;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+128;15/10/2020;8479136081;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+129;11/11/2020;7132355278;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+130;05/07/2020;2885792785;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+131;11/09/2020;3723941023;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+132;22/04/2020;4827836337;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+133;14/08/2020;2633840866;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+134;08/04/2020;2489359003;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+135;04/06/2020;2347277376;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+136;15/08/2020;2071690973;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+137;04/08/2020;1196729221;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+138;27/04/2020;9020365601;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+139;11/08/2020;4818692078;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+140;16/10/2020;6502762369;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+141;16/01/2020;924402492;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+142;19/06/2020;5633857209;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+143;06/04/2020;9715216432;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+144;26/09/2020;2808433382;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+145;03/08/2020;5585231955;Empresa D;Azogues;Canar;Andrés González Rico
+146;04/12/2020;4338999814;Empresa D;Azogues;Canar;Andrés González Rico
+147;13/08/2020;3475726472;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+148;25/04/2020;9727843310;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+149;30/04/2020;536031236;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+150;27/07/2020;1875435757;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+151;06/11/2020;8711973073;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+152;04/12/2020;1214228285;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+153;09/09/2020;3447948983;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+154;12/05/2020;8753770178;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+155;25/01/2020;493013693;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+156;28/10/2020;4097578178;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+157;06/07/2020;9949307477;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+158;21/05/2020;2521830520;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+159;31/05/2020;4224616034;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+160;06/08/2020;7169314881;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+161;06/07/2020;8313545064;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+162;21/08/2020;5739621013;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+163;21/04/2020;1789830506;Empresa D;Azogues;Canar;Andrés González Rico
+164;24/09/2020;6281652174;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+165;29/01/2020;8126696083;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+166;25/11/2020;2706456269;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+167;02/12/2020;6159315697;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+168;14/07/2020;2749029538;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+169;16/06/2020;9017454158;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+170;03/03/2020;445300235;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+171;14/01/2020;3498781571;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+172;26/06/2020;376477229;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+173;15/10/2020;1790721708;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+174;01/01/2020;434033868;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+175;11/08/2020;3247684317;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+176;12/04/2020;6492121203;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+177;29/01/2020;1661667624;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+178;23/12/2020;1127190015;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+179;16/04/2020;7862399002;Empresa D;Azogues;Canar;Andrés González Rico
+180;09/09/2020;9568142105;Empresa D;Azogues;Canar;Andrés González Rico
+181;03/02/2020;1181634254;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+182;09/08/2020;5404968765;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+183;08/05/2020;2431996009;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+184;27/09/2020;6373385557;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+185;26/08/2020;5411926783;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+186;14/10/2020;8397590471;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+187;26/07/2020;5905399576;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+188;26/04/2020;168682758;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+189;27/11/2020;4992553897;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+190;25/11/2020;9609810399;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+191;02/08/2020;1537469039;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+192;06/08/2020;2018401595;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+193;10/05/2020;1129934476;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+194;08/04/2020;878400496;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+195;31/07/2020;6271764467;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+196;23/01/2020;5954546839;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+197;15/03/2020;1007419194;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+198;01/03/2020;2749506386;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+199;15/06/2020;3279160134;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+200;12/06/2020;6789089883;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+201;22/06/2020;7775981065;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+202;02/04/2020;5357417804;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+203;05/10/2020;4986720222;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+204;11/04/2020;9264353300;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+205;27/10/2020;4507840734;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+206;05/04/2020;1926814553;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+207;04/11/2020;1115906573;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+208;15/03/2020;4298972271;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+209;09/03/2020;1419202858;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+210;19/11/2020;3516608759;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+211;02/09/2020;8191358442;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+212;21/01/2020;8451227157;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+213;17/02/2020;9847155245;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+214;25/02/2020;5189485028;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+215;25/07/2020;2367569858;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+216;24/07/2020;1241520334;Empresa D;Azogues;Canar;Andrés González Rico
+217;05/03/2020;6999895697;Empresa D;Azogues;Canar;Andrés González Rico
+218;14/07/2020;2931440223;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+219;14/05/2020;6045555436;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+220;13/10/2020;4985084204;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+221;07/07/2020;8950774476;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+222;26/05/2020;4091794218;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+223;31/07/2020;2789876793;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+224;19/04/2020;4338385582;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+225;26/06/2020;9159410824;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+226;03/12/2020;6562657766;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+227;12/12/2020;4160634865;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+228;03/02/2020;142416687;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+229;26/02/2020;6114991349;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+230;04/04/2020;6472352060;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+231;21/04/2020;5399077795;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+232;05/09/2020;6275645168;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+233;21/02/2020;597069969;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+234;09/12/2020;1323169656;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+235;07/11/2020;2932971142;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+236;17/11/2020;3634141900;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+237;05/04/2020;8872627168;Empresa D;Azogues;Canar;Andrés González Rico
+238;19/01/2020;5571010485;Empresa D;Azogues;Canar;Andrés González Rico
+239;25/05/2020;7703467924;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+240;14/01/2020;7747820326;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+241;28/01/2020;5769101754;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+242;01/03/2020;7427615835;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+243;02/06/2020;242336558;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+244;24/09/2020;2520819737;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+245;06/06/2020;8828389188;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+246;21/09/2020;164422904;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+247;09/02/2020;7991995786;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+248;09/10/2020;4149364306;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+249;26/12/2020;6397472642;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+250;01/01/2020;1168651383;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+251;16/02/2020;1309311215;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+252;18/06/2020;4552083877;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+253;16/03/2020;6119453494;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+254;25/01/2020;8815781249;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+255;02/06/2020;5308869510;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+256;08/11/2020;9623390930;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+257;28/01/2020;9925453816;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+258;03/12/2020;6948053333;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+259;26/07/2020;2060963898;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+260;07/11/2020;2582781913;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+261;11/11/2020;2732649952;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+262;03/03/2020;4179453952;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+263;26/10/2020;4339665341;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+264;03/09/2020;9193900326;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+265;30/08/2020;7474169055;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+266;29/02/2020;9750138179;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+267;17/03/2020;2294414293;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+268;11/07/2020;776426288;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+269;05/10/2020;1245231958;Empresa D;Azogues;Canar;Andrés González Rico
+270;10/04/2020;2050724971;Empresa D;Azogues;Canar;Andrés González Rico
+271;23/09/2020;9478104719;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+272;27/10/2020;7620759943;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+273;08/12/2020;9345003575;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+274;19/10/2020;5988072690;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+275;16/07/2020;5113488625;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+276;25/03/2020;8021429259;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+277;16/03/2020;680211800;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+278;18/09/2020;2635806056;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+279;30/08/2020;3338515953;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+280;02/10/2020;3075758565;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+281;25/11/2020;5383209032;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+282;25/08/2020;9635546425;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+283;30/08/2020;3501364052;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+284;10/06/2020;2226825043;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+285;22/02/2020;6321323029;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+286;03/12/2020;3775524143;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+287;01/08/2020;9543041808;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+288;03/05/2020;547647770;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+289;02/10/2020;7120228607;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+290;07/01/2020;5554565190;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+291;05/02/2020;1644848787;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+292;02/04/2020;8273786477;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+293;19/08/2020;1397118248;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+294;08/05/2020;4468604310;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+295;13/12/2020;457458721;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+296;08/06/2020;7184663808;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+297;13/09/2020;3449599231;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+298;03/12/2020;3901461858;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+299;01/04/2020;6798892819;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+300;26/10/2020;6897506437;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+301;20/10/2020;6298594113;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+302;02/06/2020;6972691420;Empresa D;Azogues;Canar;Andrés González Rico
+303;04/09/2020;677992170;Empresa D;Azogues;Canar;Andrés González Rico
+304;20/08/2020;3501827064;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+305;28/05/2020;9140892367;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+306;25/07/2020;7570396760;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+307;11/09/2020;5368769086;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+308;27/11/2020;443042127;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+309;10/01/2020;3198859022;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+310;31/07/2020;2982674072;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+311;14/10/2020;1636086310;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+312;26/08/2020;9879315200;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+313;02/05/2020;3833780472;Empresa AA;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+314;26/11/2020;1343389818;Empresa AA;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+315;07/03/2020;3066920858;Empresa D;Azogues;Canar;Andrés González Rico
+316;01/09/2020;3596038071;Empresa D;Azogues;Canar;Andrés González Rico
+317;12/08/2020;8280434895;Empresa D;Azogues;Canar;Andrés González Rico
+318;11/11/2020;7983505639;Empresa L;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+319;15/06/2020;4943792001;Empresa L;Cuenca;Azuay;Mayra Aguilar Sepúlveda
+320;27/01/2020;2679766092;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+321;20/11/2020;6256032641;Empresa D;Azogues;Canar;Andrés González Rico
+322;06/02/2020;8317306577;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+323;16/10/2020;4952054948;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+324;16/08/2020;7792270317;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+325;02/08/2020;8753687299;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+326;06/02/2020;3276376437;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+327;13/09/2020;6189400875;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+328;06/04/2020;3440571177;Empresa G;Guaranda;Guaranda;Nancy Gil de la Peña
+329;24/05/2020;8874798513;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+330;10/06/2020;9730368433;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+331;09/02/2020;6592275352;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+332;21/02/2020;9303282439;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+333;19/04/2020;8998167680;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+334;13/02/2020;2058395697;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+335;02/01/2020;5534305664;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+336;06/06/2020;5417309832;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+337;27/09/2020;7626114952;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+338;18/02/2020;7075151442;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+339;02/12/2020;4170346813;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+340;31/05/2020;7181884746;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+341;31/12/2020;654398232;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+342;01/03/2020;6559752885;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+343;11/07/2020;9428165637;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+344;13/01/2020;9902612158;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+345;22/07/2020;9601886174;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+346;07/05/2020;9194823962;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+347;02/01/2020;3580433044;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+348;08/05/2020;7020598503;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+349;27/09/2020;8040421717;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+350;07/05/2020;3654530055;Empresa D;Azogues;Canar;Andrés González Rico
+351;23/02/2020;2061527783;Empresa D;Azogues;Canar;Andrés González Rico
+352;07/05/2020;7896754000;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+353;20/12/2020;7608023281;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+354;23/11/2020;1088259448;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda
+355;11/02/2020;8019968936;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+356;19/01/2020;767630917;Empresa J;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+357;13/11/2020;8764802979;Empresa K;Quito;Pichincha;Ana del Valle Hinojosa
+358;01/11/2020;1212476279;Empresa A;Ambato;Tungurahua;Nancy Gil de la Peña
+359;08/06/2020;8659179079;Empresa BB;Manta;Manabi;Ana del Valle Hinojosa
+360;17/04/2020;4311827425;Empresa I;Guayaquil;Guayas;Robert Zárate Carrillo
+361;28/06/2020;7400116244;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+362;25/04/2020;8550780121;Empresa H;Riobamba;Chimborazo;Nancy Gil de la Peña
+363;30/07/2020;9461451917;Empresa Y;Esmeraldas;Esmeraldas;Laura Gutiérrez Saenz
+364;14/07/2020;3160888933;Empresa Z;Quito;Pichincha;Ana del Valle Hinojosa
+365;03/08/2020;6433254443;Empresa CC;Guayaquil;Guayas;José de Jesús Morales
+366;04/06/2020;8977261174;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+367;18/04/2020;7770716054;Empresa F;Ibarra;Imbabura;Luis Miguel Valdés Garza
+368;14/12/2020;2754807386;Empresa D;Azogues;Canar;Andrés González Rico
+369;05/06/2020;3873424489;Empresa C;Machala;El Oro;Mayra Aguilar Sepúlveda

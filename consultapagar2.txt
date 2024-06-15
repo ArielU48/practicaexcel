@@ -1,0 +1,3 @@
+SELECT empleados.codigo, empleados.empleado, seccion.Sección, seccion.Sueldos, Sum(prestamo.prestamo) AS SumaDeprestamo, empleados.[a cobrar]
+FROM seccion INNER JOIN (empleados INNER JOIN prestamo ON empleados.codigo = prestamo.codigo) ON seccion.Sección = empleados.Sección
+GROUP BY empleados.codigo, empleados.empleado, seccion.Sección, seccion.Sueldos, empleados.[a cobrar];

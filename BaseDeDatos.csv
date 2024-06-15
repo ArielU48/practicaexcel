@@ -1,0 +1,370 @@
+"Documento";"Fecha";"Id Cliente";"Cliente";"Ciudad";"Provincia";"Vendedor";"Empresa";"Forma de pago";"Producto";"Categoría";"Precio";"Cantidad";"Ventas"
+1,00;9/4/2020 00:00:00;9259377217,00;"Empresa AA";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";14,00;10,00;140,00
+2,00;25/8/2020 00:00:00;6185253419,00;"Empresa AA";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Cheque";"Ciruelas secas";"Frutas secas";34,00;1,00;34,00
+3,00;18/3/2020 00:00:00;2308885942,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Peras secas";"Frutas secas";14,00;57,00;798,00
+4,00;23/5/2020 00:00:00;6199717898,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Manzanas secas";"Frutas secas";16,00;72,00;1152,00
+5,00;23/4/2020 00:00:00;5540683029,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Ciruelas secas";"Frutas secas";12,00;68,00;816,00
+6,00;19/12/2020 00:00:00;6343955045,00;"Empresa L";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Tarjeta de crédito";"Té chai";"Bebidas";22,00;29,00;638,00
+7,00;29/10/2020 00:00:00;1572125717,00;"Empresa L";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Tarjeta de crédito";"Café";"Bebidas";42,00;41,00;1722,00
+8,00;2/2/2020 00:00:00;3776895536,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Galletas de chocolate";"Productos horneados";11,00;18,00;198,00
+9,00;23/11/2020 00:00:00;390733860,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque C";"Cheque";"Galletas de chocolate";"Productos horneados";29,00;73,00;2117,00
+10,00;2/2/2020 00:00:00;2456709195,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";12,00;79,00;948,00
+11,00;17/6/2020 00:00:00;5766090086,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Almejas";"Sopas";28,00;37,00;1036,00
+12,00;2/8/2020 00:00:00;4872781256,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Salsa curry";"Salsas";33,00;64,00;2112,00
+13,00;13/1/2020 00:00:00;4213140599,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";"Café";"Bebidas";21,00;96,00;2016,00
+14,00;31/1/2020 00:00:00;9433063552,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";46,00;86,00;3956,00
+15,00;25/7/2020 00:00:00;8539365209,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Té verde";"Bebidas";41,00;96,00;3936,00
+16,00;27/6/2020 00:00:00;6983099686,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";45,00;97,00;4365,00
+17,00;22/8/2020 00:00:00;3008945605,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";26,00;65,00;1690,00
+18,00;16/4/2020 00:00:00;5388305959,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";40,00;88,00;3520,00
+19,00;7/12/2020 00:00:00;438272084,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";12,00;60,00;720,00
+20,00;14/2/2020 00:00:00;2536792311,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";35,00;96,00;3360,00
+21,00;3/11/2020 00:00:00;7813757711,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";20,00;50,00;1000,00
+22,00;28/3/2020 00:00:00;4786931679,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";50,00;75,00;3750,00
+23,00;27/7/2020 00:00:00;3021659728,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";21,00;4,00;84,00
+24,00;11/6/2020 00:00:00;2591950684,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";43,00;18,00;774,00
+25,00;24/2/2020 00:00:00;9326361454,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";26,00;49,00;1274,00
+26,00;12/8/2020 00:00:00;3769138349,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";39,00;21,00;819,00
+27,00;18/3/2020 00:00:00;5871657714,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";33,00;8,00;264,00
+28,00;14/5/2020 00:00:00;1534553307,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";46,00;82,00;3772,00
+29,00;11/11/2020 00:00:00;8474620707,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";32,00;75,00;2400,00
+30,00;9/11/2020 00:00:00;3530767380,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";34,00;3,00;102,00
+31,00;15/1/2020 00:00:00;6673950624,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";24,00;33,00;792,00
+32,00;16/5/2020 00:00:00;7137547321,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";21,00;51,00;1071,00
+33,00;1/2/2020 00:00:00;9655985375,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";;"Tarifa de envío";;;
+34,00;2/12/2020 00:00:00;299812367,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";;"Tarifa de envío";;;
+35,00;9/2/2020 00:00:00;7779151222,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";;"Tarifa de envío";;;
+36,00;27/12/2020 00:00:00;9282360094,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;47,00;6580,00
+37,00;31/5/2020 00:00:00;6935804403,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;49,00;2401,00
+38,00;1/5/2020 00:00:00;3650322132,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;72,00;40320,00
+39,00;14/5/2020 00:00:00;1985754250,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;13,00;3348,80
+40,00;16/9/2020 00:00:00;7293507918,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;32,00;20608,00
+41,00;1/6/2020 00:00:00;3459323228,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Almejas";"Sopas";135,10;27,00;3647,70
+42,00;17/6/2020 00:00:00;1144627655,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Chocolate";"Dulces";178,50;71,00;12673,50
+43,00;27/8/2020 00:00:00;3986713828,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;13,00;2320,50
+44,00;16/6/2020 00:00:00;9350633665,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Condimento cajún";"Condimentos";308,00;98,00;30184,00
+45,00;25/10/2020 00:00:00;4918639925,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Jalea de fresa";"Mermeladas y jaleas";350,00;21,00;7350,00
+46,00;30/11/2020 00:00:00;9630006862,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cóctel de frutas";"Frutas y vegetales";546,00;26,00;14196,00
+47,00;30/3/2020 00:00:00;9029002933,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Peras secas";"Frutas secas";420,00;96,00;40320,00
+48,00;19/2/2020 00:00:00;5702300844,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Manzanas secas";"Frutas secas";742,00;16,00;11872,00
+49,00;1/4/2020 00:00:00;6885713027,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";;;"Pasta penne";"Pasta";532,00;96,00;51072,00
+50,00;31/1/2020 00:00:00;5156178317,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";;;"Té verde";"Bebidas";41,86;75,00;3139,50
+51,00;10/6/2020 00:00:00;9993785470,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;55,00;15015,00
+52,00;3/10/2020 00:00:00;2344903076,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;11,00;5359,20
+53,00;19/10/2020 00:00:00;5773601950,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;53,00;10388,00
+54,00;14/9/2020 00:00:00;4818078168,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;85,00;47600,00
+55,00;13/12/2020 00:00:00;9107195581,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;97,00;12493,60
+56,00;13/5/2020 00:00:00;5806733138,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;46,00;6440,00
+57,00;21/2/2020 00:00:00;3059258597,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;97,00;28993,30
+58,00;19/11/2020 00:00:00;586395005,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;97,00;13104,70
+59,00;1/9/2020 00:00:00;9281389647,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;65,00;16744,00
+60,00;6/12/2020 00:00:00;2230409971,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;72,00;14112,00
+61,00;31/5/2020 00:00:00;498762200,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;16,00;2856,00
+62,00;25/1/2020 00:00:00;5059332572,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;77,00;87318,00
+63,00;22/7/2020 00:00:00;807667000,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;37,00;3626,00
+64,00;13/10/2020 00:00:00;4320869422,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;63,00;30693,60
+65,00;9/12/2020 00:00:00;7227542762,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;48,00;6720,00
+66,00;29/2/2020 00:00:00;4844854212,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;71,00;39760,00
+67,00;24/4/2020 00:00:00;6476704094,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;55,00;7700,00
+68,00;9/8/2020 00:00:00;289513623,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;21,00;1029,00
+69,00;11/10/2020 00:00:00;4360909288,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;67,00;37520,00
+70,00;15/5/2020 00:00:00;1569352924,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;75,00;19320,00
+71,00;11/5/2020 00:00:00;4417023777,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;17,00;10948,00
+72,00;15/1/2020 00:00:00;5213348963,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Ciruelas secas";"Frutas secas";49,00;48,00;2352,00
+73,00;28/6/2020 00:00:00;6039525395,00;"Empresa L";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Tarjeta de crédito";"Té chai";"Bebidas";252,00;74,00;18648,00
+74,00;19/10/2020 00:00:00;7564866770,00;"Empresa L";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Tarjeta de crédito";"Café";"Bebidas";644,00;96,00;61824,00
+75,00;25/5/2020 00:00:00;9161740728,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Galletas de chocolate";"Productos horneados";128,80;12,00;1545,60
+76,00;18/4/2020 00:00:00;5854661633,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque C";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;62,00;7985,60
+77,00;13/6/2020 00:00:00;9782824487,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;35,00;6247,50
+78,00;27/2/2020 00:00:00;5368581132,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Almejas";"Sopas";135,10;95,00;12834,50
+79,00;9/6/2020 00:00:00;1972466220,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Salsa curry";"Salsas";560,00;17,00;9520,00
+80,00;14/11/2020 00:00:00;6835780904,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";"Café";"Bebidas";644,00;96,00;61824,00
+81,00;17/7/2020 00:00:00;9361876990,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;83,00;14815,50
+82,00;1/1/2020 00:00:00;7655628230,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Té verde";"Bebidas";41,86;88,00;3683,68
+83,00;1/5/2020 00:00:00;6770397729,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;59,00;37996,00
+84,00;25/9/2020 00:00:00;6622149015,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";350,00;27,00;9450,00
+85,00;28/8/2020 00:00:00;8859429908,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;37,00;11396,00
+86,00;30/9/2020 00:00:00;146252536,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;75,00;9660,00
+87,00;5/2/2020 00:00:00;9010865731,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;71,00;3479,00
+88,00;5/7/2020 00:00:00;9076170123,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;88,00;3683,68
+89,00;3/4/2020 00:00:00;4412491838,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;55,00;13860,00
+90,00;13/5/2020 00:00:00;7223227521,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;14,00;2499,00
+91,00;12/6/2020 00:00:00;9595973394,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Almejas";"Sopas";135,10;43,00;5809,30
+92,00;1/3/2020 00:00:00;2755531090,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Salsa curry";"Salsas";560,00;63,00;35280,00
+93,00;26/8/2020 00:00:00;5306800000,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";"Café";"Bebidas";644,00;36,00;23184,00
+94,00;6/12/2020 00:00:00;6768826719,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;41,00;7318,50
+95,00;2/4/2020 00:00:00;7945500000,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Té verde";"Bebidas";41,86;35,00;1465,10
+96,00;2/4/2020 00:00:00;4671327569,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;31,00;19964,00
+97,00;26/9/2020 00:00:00;5750783013,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";350,00;52,00;18200,00
+98,00;12/7/2020 00:00:00;1216202808,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;30,00;9240,00
+99,00;13/4/2020 00:00:00;7167041532,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;41,00;5280,80
+100,00;22/9/2020 00:00:00;2241191338,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;44,00;2156,00
+101,00;2/10/2020 00:00:00;806264266,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;77,00;3223,22
+102,00;12/3/2020 00:00:00;3820174684,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;29,00;7308,00
+103,00;31/8/2020 00:00:00;5541796483,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;77,00;49588,00
+104,00;13/7/2020 00:00:00;7096714976,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;73,00;3055,78
+105,00;25/11/2020 00:00:00;2543114862,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;74,00;9997,40
+106,00;27/8/2020 00:00:00;6501127347,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;25,00;6440,00
+107,00;26/4/2020 00:00:00;1322296163,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;82,00;22386,00
+108,00;18/10/2020 00:00:00;5162222472,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;37,00;18026,40
+109,00;29/9/2020 00:00:00;5752777715,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;84,00;16464,00
+110,00;12/7/2020 00:00:00;2261700341,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;73,00;40880,00
+111,00;30/8/2020 00:00:00;9950546196,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;51,00;6568,80
+112,00;26/12/2020 00:00:00;9911266011,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;66,00;9240,00
+113,00;18/12/2020 00:00:00;8455987495,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;36,00;10760,40
+114,00;15/5/2020 00:00:00;6668567210,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;87,00;11753,70
+115,00;7/7/2020 00:00:00;9528620750,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;64,00;16486,40
+116,00;15/2/2020 00:00:00;1951835035,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;21,00;4116,00
+117,00;27/9/2020 00:00:00;8464805926,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;19,00;3391,50
+118,00;20/9/2020 00:00:00;1040241832,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;23,00;26082,00
+119,00;22/11/2020 00:00:00;5032769390,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;72,00;7056,00
+120,00;26/3/2020 00:00:00;5375997402,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;22,00;10718,40
+121,00;7/1/2020 00:00:00;967566383,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;82,00;11480,00
+122,00;30/7/2020 00:00:00;7607007457,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;98,00;54880,00
+123,00;18/9/2020 00:00:00;6139722497,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;71,00;45724,00
+124,00;3/4/2020 00:00:00;6071133871,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";350,00;40,00;14000,00
+125,00;26/2/2020 00:00:00;8634772142,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;80,00;24640,00
+126,00;6/9/2020 00:00:00;5431718510,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;38,00;4894,40
+127,00;19/9/2020 00:00:00;7109276915,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;28,00;1372,00
+128,00;15/10/2020 00:00:00;8479136081,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;60,00;2511,60
+129,00;11/11/2020 00:00:00;7132355278,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;33,00;8316,00
+130,00;5/7/2020 00:00:00;2885792785,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;22,00;14168,00
+131,00;11/9/2020 00:00:00;3723941023,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;51,00;2134,86
+132,00;22/4/2020 00:00:00;4827836337,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;60,00;8106,00
+133,00;14/8/2020 00:00:00;2633840866,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;98,00;25244,80
+134,00;8/4/2020 00:00:00;2489359003,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;27,00;7371,00
+135,00;4/6/2020 00:00:00;2347277376,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;88,00;42873,60
+136,00;15/8/2020 00:00:00;2071690973,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;65,00;12740,00
+137,00;4/8/2020 00:00:00;1196729221,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;38,00;21280,00
+138,00;27/4/2020 00:00:00;9020365601,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;80,00;10304,00
+139,00;11/8/2020 00:00:00;4818692078,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;49,00;6860,00
+140,00;16/10/2020 00:00:00;6502762369,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;90,00;26901,00
+141,00;16/1/2020 00:00:00;924402492,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;60,00;8106,00
+142,00;19/6/2020 00:00:00;5633857209,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;39,00;10046,40
+143,00;6/4/2020 00:00:00;9715216432,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;79,00;15484,00
+144,00;26/9/2020 00:00:00;2808433382,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;44,00;7854,00
+145,00;3/8/2020 00:00:00;5585231955,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;98,00;111132,00
+146,00;4/12/2020 00:00:00;4338999814,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;61,00;5978,00
+147,00;13/8/2020 00:00:00;3475726472,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;30,00;14616,00
+148,00;25/4/2020 00:00:00;9727843310,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;24,00;3360,00
+149,00;30/4/2020 00:00:00;536031236,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;28,00;15680,00
+150,00;27/7/2020 00:00:00;1875435757,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;74,00;10360,00
+151,00;6/11/2020 00:00:00;8711973073,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;90,00;4410,00
+152,00;4/12/2020 00:00:00;1214228285,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;27,00;15120,00
+153,00;9/9/2020 00:00:00;3447948983,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;71,00;18289,60
+154,00;12/5/2020 00:00:00;8753770178,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;74,00;47656,00
+155,00;25/1/2020 00:00:00;493013693,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Almejas";"Sopas";135,10;76,00;10267,60
+156,00;28/10/2020 00:00:00;4097578178,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Chocolate";"Dulces";178,50;96,00;17136,00
+157,00;6/7/2020 00:00:00;9949307477,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;92,00;16422,00
+158,00;21/5/2020 00:00:00;2521830520,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Condimento cajún";"Condimentos";308,00;93,00;28644,00
+159,00;31/5/2020 00:00:00;4224616034,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Jalea de fresa";"Mermeladas y jaleas";350,00;18,00;6300,00
+160,00;6/8/2020 00:00:00;7169314881,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cóctel de frutas";"Frutas y vegetales";546,00;98,00;53508,00
+161,00;6/7/2020 00:00:00;8313545064,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Peras secas";"Frutas secas";420,00;46,00;19320,00
+162,00;21/8/2020 00:00:00;5739621013,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Manzanas secas";"Frutas secas";742,00;14,00;10388,00
+163,00;21/4/2020 00:00:00;1789830506,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";;;"Pasta penne";"Pasta";532,00;85,00;45220,00
+164,00;24/9/2020 00:00:00;6281652174,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";;;"Té verde";"Bebidas";41,86;88,00;3683,68
+165,00;29/1/2020 00:00:00;8126696083,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;81,00;3390,66
+166,00;25/11/2020 00:00:00;2706456269,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;33,00;4458,30
+167,00;2/12/2020 00:00:00;6159315697,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;47,00;12107,20
+168,00;14/7/2020 00:00:00;2749029538,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;61,00;16653,00
+169,00;16/6/2020 00:00:00;9017454158,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;27,00;13154,40
+170,00;3/3/2020 00:00:00;445300235,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;84,00;16464,00
+171,00;14/1/2020 00:00:00;3498781571,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;91,00;50960,00
+172,00;26/6/2020 00:00:00;376477229,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;36,00;4636,80
+173,00;15/10/2020 00:00:00;1790721708,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;34,00;4760,00
+174,00;1/1/2020 00:00:00;434033868,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;81,00;24210,90
+175,00;11/8/2020 00:00:00;3247684317,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;25,00;3377,50
+176,00;12/4/2020 00:00:00;6492121203,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;12,00;3091,20
+177,00;29/1/2020 00:00:00;1661667624,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;23,00;4508,00
+178,00;23/12/2020 00:00:00;1127190015,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;76,00;13566,00
+179,00;16/4/2020 00:00:00;7862399002,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;55,00;62370,00
+180,00;9/9/2020 00:00:00;9568142105,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;19,00;1862,00
+181,00;3/2/2020 00:00:00;1181634254,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;27,00;13154,40
+182,00;9/8/2020 00:00:00;5404968765,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;99,00;13860,00
+183,00;8/5/2020 00:00:00;2431996009,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;10,00;5600,00
+184,00;27/9/2020 00:00:00;6373385557,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;80,00;11200,00
+185,00;26/8/2020 00:00:00;5411926783,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;27,00;1323,00
+186,00;14/10/2020 00:00:00;8397590471,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;97,00;54320,00
+187,00;26/7/2020 00:00:00;5905399576,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;42,00;10819,20
+188,00;26/4/2020 00:00:00;168682758,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;24,00;15456,00
+189,00;27/11/2020 00:00:00;4992553897,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Almejas";"Sopas";135,10;90,00;12159,00
+190,00;25/11/2020 00:00:00;9609810399,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Chocolate";"Dulces";178,50;28,00;4998,00
+191,00;2/8/2020 00:00:00;1537469039,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";"Café";"Bebidas";644,00;28,00;18032,00
+192,00;6/8/2020 00:00:00;2018401595,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;57,00;10174,50
+193,00;10/5/2020 00:00:00;1129934476,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Té verde";"Bebidas";41,86;23,00;962,78
+194,00;8/4/2020 00:00:00;878400496,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;86,00;55384,00
+195,00;31/7/2020 00:00:00;6271764467,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";350,00;47,00;16450,00
+196,00;23/1/2020 00:00:00;5954546839,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;97,00;29876,00
+197,00;15/3/2020 00:00:00;1007419194,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;96,00;12364,80
+198,00;1/3/2020 00:00:00;2749506386,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;31,00;1519,00
+199,00;15/6/2020 00:00:00;3279160134,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;52,00;2176,72
+200,00;12/6/2020 00:00:00;6789089883,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;91,00;22932,00
+201,00;22/6/2020 00:00:00;7775981065,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;14,00;9016,00
+202,00;2/4/2020 00:00:00;5357417804,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;44,00;1841,84
+203,00;5/10/2020 00:00:00;4986720222,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;97,00;13104,70
+204,00;11/4/2020 00:00:00;9264353300,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;80,00;20608,00
+205,00;27/10/2020 00:00:00;4507840734,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;66,00;18018,00
+206,00;5/4/2020 00:00:00;1926814553,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;32,00;15590,40
+207,00;4/11/2020 00:00:00;1115906573,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;52,00;10192,00
+208,00;15/3/2020 00:00:00;4298972271,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;78,00;43680,00
+209,00;9/3/2020 00:00:00;1419202858,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;54,00;6955,20
+210,00;19/11/2020 00:00:00;3516608759,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;55,00;7700,00
+211,00;2/9/2020 00:00:00;8191358442,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;60,00;17934,00
+212,00;21/1/2020 00:00:00;8451227157,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;19,00;2566,90
+213,00;17/2/2020 00:00:00;9847155245,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;66,00;17001,60
+214,00;25/2/2020 00:00:00;5189485028,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;42,00;8232,00
+215,00;25/7/2020 00:00:00;2367569858,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;72,00;12852,00
+216,00;24/7/2020 00:00:00;1241520334,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;32,00;36288,00
+217,00;5/3/2020 00:00:00;6999895697,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;76,00;7448,00
+218,00;14/7/2020 00:00:00;2931440223,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;83,00;10690,40
+219,00;14/5/2020 00:00:00;6045555436,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;91,00;4459,00
+220,00;13/10/2020 00:00:00;4985084204,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;64,00;2679,04
+221,00;7/7/2020 00:00:00;8950774476,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;58,00;14616,00
+222,00;26/5/2020 00:00:00;4091794218,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;97,00;62468,00
+223,00;31/7/2020 00:00:00;2789876793,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;14,00;586,04
+224,00;19/4/2020 00:00:00;4338385582,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;68,00;9186,80
+225,00;26/6/2020 00:00:00;9159410824,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;32,00;8243,20
+226,00;3/12/2020 00:00:00;6562657766,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;48,00;13104,00
+227,00;12/12/2020 00:00:00;4160634865,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;57,00;27770,40
+228,00;3/2/2020 00:00:00;142416687,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;67,00;13132,00
+229,00;26/2/2020 00:00:00;6114991349,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;48,00;26880,00
+230,00;4/4/2020 00:00:00;6472352060,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;77,00;9917,60
+231,00;21/4/2020 00:00:00;5399077795,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;94,00;13160,00
+232,00;5/9/2020 00:00:00;6275645168,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;54,00;16140,60
+233,00;21/2/2020 00:00:00;597069969,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;43,00;5809,30
+234,00;9/12/2020 00:00:00;1323169656,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;71,00;18289,60
+235,00;7/11/2020 00:00:00;2932971142,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;50,00;9800,00
+236,00;17/11/2020 00:00:00;3634141900,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;96,00;17136,00
+237,00;5/4/2020 00:00:00;8872627168,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;54,00;61236,00
+238,00;19/1/2020 00:00:00;5571010485,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;39,00;3822,00
+239,00;25/5/2020 00:00:00;7703467924,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;63,00;30693,60
+240,00;14/1/2020 00:00:00;7747820326,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;71,00;9940,00
+241,00;28/1/2020 00:00:00;5769101754,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;88,00;49280,00
+242,00;1/3/2020 00:00:00;7427615835,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;59,00;8260,00
+243,00;2/6/2020 00:00:00;242336558,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Salsa curry";"Salsas";560,00;94,00;52640,00
+244,00;24/9/2020 00:00:00;2520819737,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";"Café";"Bebidas";644,00;86,00;55384,00
+245,00;6/6/2020 00:00:00;8828389188,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;61,00;10888,50
+246,00;21/9/2020 00:00:00;164422904,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Té verde";"Bebidas";41,86;32,00;1339,52
+247,00;9/2/2020 00:00:00;7991995786,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;62,00;39928,00
+248,00;9/10/2020 00:00:00;4149364306,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";350,00;60,00;21000,00
+249,00;26/12/2020 00:00:00;6397472642,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;51,00;15708,00
+250,00;1/1/2020 00:00:00;1168651383,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;49,00;6311,20
+251,00;16/2/2020 00:00:00;1309311215,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;20,00;980,00
+252,00;18/6/2020 00:00:00;4552083877,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;49,00;2051,14
+253,00;16/3/2020 00:00:00;6119453494,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;22,00;5544,00
+254,00;25/1/2020 00:00:00;8815781249,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;73,00;47012,00
+255,00;2/6/2020 00:00:00;5308869510,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;85,00;3558,10
+256,00;8/11/2020 00:00:00;9623390930,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;44,00;5944,40
+257,00;28/1/2020 00:00:00;9925453816,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;24,00;6182,40
+258,00;3/12/2020 00:00:00;6948053333,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;64,00;17472,00
+259,00;26/7/2020 00:00:00;2060963898,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;70,00;34104,00
+260,00;7/11/2020 00:00:00;2582781913,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;98,00;19208,00
+261,00;11/11/2020 00:00:00;2732649952,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;48,00;26880,00
+262,00;3/3/2020 00:00:00;4179453952,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;100,00;12880,00
+263,00;26/10/2020 00:00:00;4339665341,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;90,00;12600,00
+264,00;3/9/2020 00:00:00;9193900326,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;49,00;14646,10
+265,00;30/8/2020 00:00:00;7474169055,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;71,00;9592,10
+266,00;29/2/2020 00:00:00;9750138179,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;10,00;2576,00
+267,00;17/3/2020 00:00:00;2294414293,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;78,00;15288,00
+268,00;11/7/2020 00:00:00;776426288,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;44,00;7854,00
+269,00;5/10/2020 00:00:00;1245231958,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;82,00;92988,00
+270,00;10/4/2020 00:00:00;2050724971,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;29,00;2842,00
+271,00;23/9/2020 00:00:00;9478104719,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;93,00;45309,60
+272,00;27/10/2020 00:00:00;7620759943,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;11,00;1540,00
+273,00;8/12/2020 00:00:00;9345003575,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;91,00;50960,00
+274,00;19/10/2020 00:00:00;5988072690,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;12,00;1680,00
+275,00;16/7/2020 00:00:00;5113488625,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;78,00;3822,00
+276,00;25/3/2020 00:00:00;8021429259,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;60,00;33600,00
+277,00;16/3/2020 00:00:00;680211800,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;23,00;5924,80
+278,00;18/9/2020 00:00:00;2635806056,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;34,00;21896,00
+279,00;30/8/2020 00:00:00;3338515953,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Almejas";"Sopas";135,10;89,00;12023,90
+280,00;2/10/2020 00:00:00;3075758565,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Chocolate";"Dulces";178,50;82,00;14637,00
+281,00;25/11/2020 00:00:00;5383209032,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;43,00;7675,50
+282,00;25/8/2020 00:00:00;9635546425,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;96,00;29568,00
+283,00;30/8/2020 00:00:00;3501364052,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;34,00;4379,20
+284,00;10/6/2020 00:00:00;2226825043,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;42,00;2058,00
+285,00;22/2/2020 00:00:00;6321323029,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;100,00;4186,00
+286,00;3/12/2020 00:00:00;3775524143,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;42,00;10584,00
+287,00;1/8/2020 00:00:00;9543041808,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;16,00;10304,00
+288,00;3/5/2020 00:00:00;547647770,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;22,00;920,92
+289,00;2/10/2020 00:00:00;7120228607,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;46,00;6214,60
+290,00;7/1/2020 00:00:00;5554565190,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;100,00;25760,00
+291,00;5/2/2020 00:00:00;1644848787,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;87,00;23751,00
+292,00;2/4/2020 00:00:00;8273786477,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;58,00;28257,60
+293,00;19/8/2020 00:00:00;1397118248,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;85,00;16660,00
+294,00;8/5/2020 00:00:00;4468604310,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;28,00;15680,00
+295,00;13/12/2020 00:00:00;457458721,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;19,00;2447,20
+296,00;8/6/2020 00:00:00;7184663808,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;99,00;13860,00
+297,00;13/9/2020 00:00:00;3449599231,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;69,00;20624,10
+298,00;3/12/2020 00:00:00;3901461858,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;37,00;4998,70
+299,00;1/4/2020 00:00:00;6798892819,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;64,00;16486,40
+300,00;26/10/2020 00:00:00;6897506437,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;38,00;7448,00
+301,00;20/10/2020 00:00:00;6298594113,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;15,00;2677,50
+302,00;2/6/2020 00:00:00;6972691420,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;52,00;58968,00
+303,00;4/9/2020 00:00:00;677992170,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;37,00;3626,00
+304,00;20/8/2020 00:00:00;3501827064,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;24,00;11692,80
+305,00;28/5/2020 00:00:00;9140892367,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;36,00;5040,00
+306,00;25/7/2020 00:00:00;7570396760,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;24,00;13440,00
+307,00;11/9/2020 00:00:00;5368769086,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;20,00;2800,00
+308,00;27/11/2020 00:00:00;443042127,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;11,00;539,00
+309,00;10/1/2020 00:00:00;3198859022,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;78,00;43680,00
+310,00;31/7/2020 00:00:00;2982674072,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;76,00;19577,60
+311,00;14/10/2020 00:00:00;1636086310,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;57,00;36708,00
+312,00;26/8/2020 00:00:00;9879315200,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Almejas";"Sopas";135,10;14,00;1891,40
+313,00;2/5/2020 00:00:00;3833780472,00;"Empresa AA";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;14,00;2744,00
+314,00;26/11/2020 00:00:00;1343389818,00;"Empresa AA";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Cheque";"Ciruelas secas";"Frutas secas";49,00;70,00;3430,00
+315,00;7/3/2020 00:00:00;3066920858,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Peras secas";"Frutas secas";420,00;100,00;42000,00
+316,00;1/9/2020 00:00:00;3596038071,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Manzanas secas";"Frutas secas";742,00;27,00;20034,00
+317,00;12/8/2020 00:00:00;8280434895,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Ciruelas secas";"Frutas secas";49,00;70,00;3430,00
+318,00;11/11/2020 00:00:00;7983505639,00;"Empresa L";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Tarjeta de crédito";"Té chai";"Bebidas";252,00;57,00;14364,00
+319,00;15/6/2020 00:00:00;4943792001,00;"Empresa L";"Cuenca";"Azuay";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Tarjeta de crédito";"Café";"Bebidas";644,00;83,00;53452,00
+320,00;27/1/2020 00:00:00;2679766092,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Galletas de chocolate";"Productos horneados";128,80;76,00;9788,80
+321,00;20/11/2020 00:00:00;6256032641,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque C";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;80,00;10304,00
+322,00;6/2/2020 00:00:00;8317306577,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;47,00;8389,50
+323,00;16/10/2020 00:00:00;4952054948,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Almejas";"Sopas";135,10;96,00;12969,60
+324,00;16/8/2020 00:00:00;7792270317,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Salsa curry";"Salsas";560,00;32,00;17920,00
+325,00;2/8/2020 00:00:00;8753687299,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Cheque";"Café";"Bebidas";644,00;16,00;10304,00
+326,00;6/2/2020 00:00:00;3276376437,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;41,00;7318,50
+327,00;13/9/2020 00:00:00;6189400875,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Té verde";"Bebidas";41,86;41,00;1716,26
+328,00;6/4/2020 00:00:00;3440571177,00;"Empresa G";"Guaranda";"Guaranda";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;41,00;26404,00
+329,00;24/5/2020 00:00:00;8874798513,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Jalea de fresa";"Mermeladas y jaleas";350,00;94,00;32900,00
+330,00;10/6/2020 00:00:00;9730368433,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Condimento cajún";"Condimentos";308,00;20,00;6160,00
+331,00;9/2/2020 00:00:00;6592275352,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Galletas de chocolate";"Productos horneados";128,80;13,00;1674,40
+332,00;21/2/2020 00:00:00;9303282439,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Ciruelas secas";"Frutas secas";49,00;74,00;3626,00
+333,00;19/4/2020 00:00:00;8998167680,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Té verde";"Bebidas";41,86;53,00;2218,58
+334,00;13/2/2020 00:00:00;2058395697,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té chai";"Bebidas";252,00;99,00;24948,00
+335,00;2/1/2020 00:00:00;5534305664,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Café";"Bebidas";644,00;89,00;57316,00
+336,00;6/6/2020 00:00:00;5417309832,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";;;"Té verde";"Bebidas";41,86;64,00;2679,04
+337,00;27/9/2020 00:00:00;7626114952,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;98,00;13239,80
+338,00;18/2/2020 00:00:00;7075151442,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;86,00;22153,60
+339,00;2/12/2020 00:00:00;4170346813,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Ravioli";"Pasta";273,00;20,00;5460,00
+340,00;31/5/2020 00:00:00;7181884746,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Mozzarella";"Productos lácteos";487,20;69,00;33616,80
+341,00;31/12/2020 00:00:00;654398232,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Cerveza";"Bebidas";196,00;68,00;13328,00
+342,00;1/3/2020 00:00:00;6559752885,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Salsa curry";"Salsas";560,00;52,00;29120,00
+343,00;11/7/2020 00:00:00;9428165637,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Galletas de chocolate";"Productos horneados";128,80;40,00;5152,00
+344,00;13/1/2020 00:00:00;9902612158,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Bolillos";"Productos horneados";140,00;100,00;14000,00
+345,00;22/7/2020 00:00:00;9601886174,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Aceite de oliva";"Aceite";298,90;88,00;26303,20
+346,00;7/5/2020 00:00:00;9194823962,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Almejas";"Sopas";135,10;46,00;6214,60
+347,00;2/1/2020 00:00:00;3580433044,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Carne de cangrejo";"Carne enlatada";257,60;93,00;23956,80
+348,00;8/5/2020 00:00:00;7020598503,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cerveza";"Bebidas";196,00;96,00;18816,00
+349,00;27/9/2020 00:00:00;8040421717,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Chocolate";"Dulces";178,50;12,00;2142,00
+350,00;7/5/2020 00:00:00;3654530055,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Mermelada de zarzamora";"Mermeladas y jaleas";1134,00;38,00;43092,00
+351,00;23/2/2020 00:00:00;2061527783,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";"Empresa de embarque A";"Tarjeta de crédito";"Arroz de grano largo";"Granos";98,00;42,00;4116,00
+352,00;7/5/2020 00:00:00;7896754000,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque C";"Tarjeta de crédito";"Mozzarella";"Productos lácteos";487,20;100,00;48720,00
+353,00;20/12/2020 00:00:00;7608023281,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Jarabe";"Condimentos";140,00;89,00;12460,00
+354,00;23/11/2020 00:00:00;1088259448,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";"Empresa de embarque B";"Efectivo";"Salsa curry";"Salsas";560,00;12,00;6720,00
+355,00;11/2/2020 00:00:00;8019968936,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque B";"Tarjeta de crédito";"Almendras";"Frutas secas";140,00;97,00;13580,00
+356,00;19/1/2020 00:00:00;767630917,00;"Empresa J";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";;"Ciruelas secas";"Frutas secas";49,00;53,00;2597,00
+357,00;13/11/2020 00:00:00;8764802979,00;"Empresa K";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";;"Salsa curry";"Salsas";560,00;61,00;34160,00
+358,00;1/11/2020 00:00:00;1212476279,00;"Empresa A";"Ambato";"Tungurahua";"Nancy Gil de la Peña";"Empresa de embarque C";;"Carne de cangrejo";"Carne enlatada";257,60;45,00;11592,00
+359,00;8/6/2020 00:00:00;8659179079,00;"Empresa BB";"Manta";"Manabi";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Café";"Bebidas";644,00;43,00;27692,00
+360,00;17/4/2020 00:00:00;4311827425,00;"Empresa I";"Guayaquil";"Guayas";"Robert Zárate Carrillo";"Empresa de embarque A";"Cheque";"Almejas";"Sopas";135,10;18,00;2431,80
+361,00;28/6/2020 00:00:00;7400116244,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque B";"Tarjeta de crédito";"Chocolate";"Dulces";178,50;41,00;7318,50
+362,00;25/4/2020 00:00:00;8550780121,00;"Empresa H";"Riobamba";"Chimborazo";"Nancy Gil de la Peña";"Empresa de embarque B";"Cheque";"Chocolate";"Dulces";178,50;19,00;3391,50
+363,00;30/7/2020 00:00:00;9461451917,00;"Empresa Y";"Esmeraldas";"Esmeraldas";"Laura Gutiérrez Saenz";"Empresa de embarque A";"Efectivo";"Condimento cajún";"Condimentos";308,00;65,00;20020,00
+364,00;14/7/2020 00:00:00;3160888933,00;"Empresa Z";"Quito";"Pichincha";"Ana del Valle Hinojosa";"Empresa de embarque C";"Tarjeta de crédito";"Jalea de fresa";"Mermeladas y jaleas";350,00;13,00;4550,00
+365,00;3/8/2020 00:00:00;6433254443,00;"Empresa CC";"Guayaquil";"Guayas";"José de Jesús Morales";"Empresa de embarque B";"Cheque";"Cóctel de frutas";"Frutas y vegetales";546,00;54,00;29484,00
+366,00;4/6/2020 00:00:00;8977261174,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Peras secas";"Frutas secas";420,00;33,00;13860,00
+367,00;18/4/2020 00:00:00;7770716054,00;"Empresa F";"Ibarra";"Imbabura";"Luis Miguel Valdés Garza";"Empresa de embarque C";"Cheque";"Manzanas secas";"Frutas secas";742,00;34,00;25228,00
+368,00;14/12/2020 00:00:00;2754807386,00;"Empresa D";"Azogues";"Canar";"Andrés González Rico";;;"Pasta penne";"Pasta";532,00;59,00;31388,00
+369,00;5/6/2020 00:00:00;3873424489,00;"Empresa C";"Machala";"El Oro";"Mayra Aguilar Sepúlveda";;;"Té verde";"Bebidas";41,86;24,00;1004,64

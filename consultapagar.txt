@@ -1,0 +1,8 @@
+1,00;"Uñate,  Alejandro Ariel";"Cobranza";25000,00;1990,00;23010,00
+2,00;"Cabral, Antonio Raúl";"Contabilidad";35000,00;890,00;34110,00
+3,00;"Sosa, Juan Antonio";"Gerente";45000,00;1320,00;43680,00
+4,00;"Solis, Saúl Carlos";"Informática";50000,00;780,00;49220,00
+5,00;"Romano, Ariel Juan";"Limpieza";100000,00;850,00;99150,00
+6,00;"Pintos, Aron Luis";"Mantenimiento";100500,00;50,00;100450,00
+7,00;"Cruz, Sonia Luisa";"Secretaria";117000,00;40,00;116960,00
+8,00;"Navarro, Sofia Kiara";"Seguridad";133500,00;110,00;133390,00
